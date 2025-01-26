@@ -8,6 +8,13 @@
 *.log
 *.log.*
 *.sig
+*.pdf
+
+push_swap
+
 
 pkg/
 src/
+objs/
+.vscode/
+save/
